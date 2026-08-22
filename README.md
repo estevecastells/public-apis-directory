@@ -69,6 +69,10 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [RandomFox](https://randomfox.ca/floof/) | Random fox images | None | Yes | Unknown |
 | [iNaturalist](https://api.inaturalist.org/v1/docs/) | Species observations and biodiversity data | None | Yes | Yes |
 | [GBIF](https://www.gbif.org/developer/summary) | Global biodiversity/species occurrence data | None | Yes | Yes |
+| [The Cat API](https://thecatapi.com/) | Cat images, breeds, and facts | API Key | Yes | Yes |
+| [The Dog API](https://thedogapi.com/) | Dog images and breed data | API Key | Yes | Yes |
+| [Shibe.online](http://shibe.online/) | Random Shiba Inu, cat, and bird images | None | No | Yes |
+| [Zoo Animal API](https://zoo-animal-api.herokuapp.com/) | Random zoo animal facts and images | None | Yes | Unknown |
 | [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Bird observation data | API Key | Yes | Unknown |
 
 ## 🎌 Anime & Entertainment
@@ -79,6 +83,9 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [AniList](https://anilist.gitbook.io/anilist-apiv2-docs/) | Anime and manga database (GraphQL) | OAuth | Yes | Yes |
 | [Studio Ghibli](https://ghibliapi.vercel.app/) | Info on Studio Ghibli films | None | Yes | Yes |
 | [Trivia API](https://the-trivia-api.com/) | Trivia questions across categories | None | Yes | Yes |
+| [Kitsu](https://kitsu.docs.apiary.io/) | Anime/manga library, ratings, and streaming links | OAuth | Yes | Yes |
+| [Waifu.pics](https://waifu.pics/docs) | Anime-style image sharing (SFW endpoints) | None | Yes | Unknown |
+| [AniAPI](https://tvarker.github.io/AniApiDocs/) | Anime episodes, streaming, and metadata | OAuth | Yes | Unknown |
 
 ## 🎨 Art, Design & Photography
 
@@ -90,6 +97,9 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | Artwork data and images | None | Yes | Yes |
 | [Colormind](http://colormind.io/api-access/) | AI-generated color palettes | None | No | Unknown |
 | [Lorem Picsum](https://picsum.photos/) | Placeholder images | None | Yes | Yes |
+| [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) | Dutch national museum's open art collection | API Key | Yes | Unknown |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Collection data from Harvard's museums | API Key | Yes | Unknown |
+| [Pixabay](https://pixabay.com/api/docs/) | Free stock images, illustrations, and vectors | API Key | Yes | Unknown |
 
 ## 📚 Books & Literature
 
@@ -99,6 +109,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Google Books](https://developers.google.com/books) | Search and info on books | API Key | Yes | Yes |
 | [Gutendex](https://gutendex.com/) | Project Gutenberg free ebooks | None | Yes | Unknown |
 | [Quotable](https://github.com/lukePeavey/quotable) | Famous quotes | None | Yes | Yes |
+| [Bible API](https://bible-api.com/) | Free Bible verses and passages | None | Yes | Unknown |
+| [PoetryDB](https://poetrydb.org/index.html) | Search classic poems by author/title/line | None | Yes | Unknown |
 
 ## 🏢 Business & Company Data
 
@@ -107,6 +119,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Clearbit](https://clearbit.com/docs) | Company and person enrichment data | API Key | Yes | Unknown |
 | [OpenCorporates](https://api.opencorporates.com/documentation/API-Reference) | Largest open database of companies | API Key | Yes | Unknown |
 | [Companies House (UK)](https://developer.company-information.service.gov.uk/) | UK registered company data | API Key | Yes | Unknown |
+| [SEC EDGAR Full-Text Search](https://efts.sec.gov/LATEST/search-index?q=) | Search US public company filings | None | Yes | Unknown |
 
 ## 📅 Calendar & Events
 
@@ -115,6 +128,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Calendarific](https://calendarific.com/) | Public holidays worldwide | API Key | Yes | Unknown |
 | [Nager.Date](https://date.nager.at/) | Public holidays by country | None | Yes | Yes |
 | [PredictHQ](https://www.predicthq.com/) | Real-world events data | API Key | Yes | Unknown |
+| [Abstract API - Holidays](https://www.abstractapi.com/api/holidays-api) | Public and bank holidays by country | API Key | Yes | Unknown |
 
 ## ₿ Cryptocurrency & Blockchain
 
@@ -124,6 +138,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [CoinCap](https://docs.coincap.io/) | Real-time crypto pricing | None | Yes | Yes |
 | [Blockchain.info](https://www.blockchain.com/api) | Bitcoin data and blockchain explorer | None | Yes | Unknown |
 | [Etherscan](https://docs.etherscan.io/) | Ethereum blockchain explorer data | API Key | Yes | Unknown |
+| [Binance Public API](https://binance-docs.github.io/apidocs/spot/en/) | Live crypto market/order-book data | None/API Key | Yes | Unknown |
+| [CoinLore](https://www.coinlore.com/cryptocurrency-data-api) | Free crypto market data, no key required | None | Yes | Unknown |
 
 ## 💱 Currency & Finance
 
@@ -133,6 +149,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Frankfurter](https://www.frankfurter.app/) | Free currency exchange (ECB data) | None | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Stocks, forex, crypto market data | API Key | Yes | Unknown |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Financial and stock market data | API Key | Yes | Yes |
+| [Fixer.io](https://fixer.io/) | Foreign exchange rates and conversion | API Key | Yes | Unknown |
+| [Polygon.io](https://polygon.io/docs) | Stocks, options, forex, and crypto data | API Key | Yes | Unknown |
 
 ## 🛠 Developer Tools & Utilities
 
@@ -143,6 +161,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [ipify](https://www.ipify.org/) | Get your public IP address | None | Yes | Yes |
 | [Diffbot](https://www.diffbot.com/) | Extract structured data from web pages | API Key | Yes | Unknown |
 | [urlscan.io](https://urlscan.io/about-api/) | Scan and analyze websites | API Key | Yes | Unknown |
+| [JSONBin.io](https://jsonbin.io/) | Free JSON storage/hosting for prototypes | API Key | Yes | Yes |
+| [httpbin](https://httpbin.org/) | Test HTTP requests and responses | None | Yes | Yes |
 
 ## 🔤 Dictionaries & Language
 
@@ -151,6 +171,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Free Dictionary API](https://dictionaryapi.dev/) | Word definitions, phonetics, synonyms | None | Yes | Yes |
 | [LibreTranslate](https://libretranslate.com/) | Open-source machine translation | None/API Key | Yes | Yes |
 | [Datamuse](https://www.datamuse.com/api/) | Word-finding query engine (rhymes, related words) | None | Yes | Unknown |
+| [Wordnik](https://developer.wordnik.com/) | Word definitions, examples, and usage data | API Key | Yes | Unknown |
 
 ## 🎓 Education & University
 
@@ -158,6 +179,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 |---|---|---|---|---|
 | [Universities Hipolabs](http://universities.hipolabs.com/) | Search universities by name/country | None | No | Unknown |
 | [Open edX](https://open.edx.org/) | Course/learning platform APIs | OAuth | Yes | Unknown |
+| [College Scorecard](https://collegescorecard.ed.gov/data/documentation/) | US Dept. of Education college/university data | API Key | Yes | Unknown |
 
 ## 🌦 Environment & Weather
 
@@ -168,6 +190,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [NOAA Weather API](https://www.weather.gov/documentation/services-web-api) | US government weather data | None | Yes | Yes |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | Air quality data | API Key | Yes | Unknown |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | API Key | Yes | Yes |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api) | Historical and forecast weather data | API Key | Yes | Unknown |
 
 ## 🍔 Food & Drink
 
@@ -177,6 +200,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Cocktail recipes and ingredients | None/API Key | Yes | Yes |
 | [Edamam](https://developer.edamam.com/) | Nutrition and recipe search | API Key | Yes | Unknown |
 | [Open Food Facts](https://world.openfoodfacts.org/data) | Open database of food products | None | Yes | Yes |
+| [Spoonacular](https://spoonacular.com/food-api) | Recipes, meal planning, and nutrition data | API Key | Yes | Unknown |
 
 ## 🎮 Games & Comics
 
@@ -187,6 +211,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Marvel](https://developer.marvel.com/) | Marvel comics data | API Key | Yes | Unknown |
 | [Chess.com](https://www.chess.com/news/view/published-data-api) | Player stats and game data | None | Yes | Unknown |
 | [Steam Web API](https://steamcommunity.com/dev) | Steam game and user data | API Key | Yes | Unknown |
+| [IGDB](https://api-docs.igdb.com/) | Internet Game Database - detailed game metadata | OAuth | Yes | Unknown |
+| [Giant Bomb](https://www.giantbomb.com/api/) | Video game wiki data and reviews | API Key | Yes | Unknown |
 
 ## 🗺 Geocoding, Location & Maps
 
@@ -197,6 +223,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [REST Countries](https://restcountries.com/) | Country data (flags, currency, population) | None | Yes | Yes |
 | [GeoNames](https://www.geonames.org/export/web-services.html) | Global geographical database | API Key | Yes | Unknown |
 | [Zippopotam.us](http://www.zippopotam.us/) | Postal code lookups worldwide | None | No | Unknown |
+| [LocationIQ](https://locationiq.com/docs) | Geocoding, reverse geocoding, and maps | API Key | Yes | Unknown |
+| [HERE Geocoding](https://developer.here.com/documentation/geocoding-search-api/) | Geocoding, routing, and places | API Key | Yes | Unknown |
 
 ## 🏛 Government & Public Data
 
@@ -208,6 +236,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | Global economic/development data | None | Yes | Yes |
 | [UN Data](https://data.un.org/Host.aspx?Content=API) | United Nations statistical data | None | Yes | Unknown |
 | [Census Bureau (US)](https://www.census.gov/data/developers/data-sets.html) | US demographic and economic data | API Key | Yes | Unknown |
+| [FBI Crime Data API](https://crime-data-explorer.fr.cloud.gov/pages/docApi) | US crime statistics by jurisdiction | API Key | Yes | Unknown |
+| [Regulations.gov](https://open.gsa.gov/api/regulationsgov/) | US federal regulations and public comments | API Key | Yes | Unknown |
 
 ## 🏥 Health & Medicine
 
@@ -217,6 +247,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [disease.sh](https://disease.sh/) | COVID-19 and disease statistics | None | Yes | Yes |
 | [Nutritionix](https://www.nutritionix.com/business/api) | Nutrition data for food items | API Key | Yes | Unknown |
 | [WHO Global Health Observatory](https://www.who.int/data/gho/info/gho-odata-api) | Global health statistics | None | Yes | Unknown |
+| [CDC Open Data API](https://data.cdc.gov/) | US public health datasets and statistics | API Key | Yes | Unknown |
 
 ## 💼 Jobs & Career
 
@@ -225,6 +256,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Adzuna](https://developer.adzuna.com/) | Job search across countries | API Key | Yes | Unknown |
 | [GitHub Jobs (archived alt: RemoteOK)](https://remoteok.com/api) | Remote job listings | None | Yes | Unknown |
 | [USAJobs](https://developer.usajobs.gov/) | US federal government jobs | API Key | Yes | Unknown |
+| [The Muse](https://www.themuse.com/developers/api/v2) | Job listings and company profiles | API Key | Yes | Unknown |
 
 ## 🤖 Machine Learning & AI
 
@@ -234,6 +266,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Anthropic API](https://docs.claude.com/) | Claude language models | API Key | Yes | Yes |
 | [DeepAI](https://deepai.org/apis) | Image recognition, NLP, generation | API Key | Yes | Unknown |
 | [Google Cloud Vision](https://cloud.google.com/vision) | Image labeling, OCR, face detection | API Key | Yes | Unknown |
+| [Cohere](https://docs.cohere.com/) | Text generation, embeddings, and classification | API Key | Yes | Unknown |
 
 ## 🎵 Music & Audio
 
@@ -243,6 +276,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [MusicBrainz](https://musicbrainz.org/doc/MusicBrainz_API) | Open music encyclopedia | None | Yes | Yes |
 | [Genius](https://docs.genius.com/) | Song lyrics metadata and annotations | OAuth | Yes | Unknown |
 | [Deezer](https://developers.deezer.com/api) | Music catalog and playback data | OAuth | Yes | Yes |
+| [Last.fm](https://www.last.fm/api) | Music scrobbling, artist and track data | API Key | Yes | Unknown |
+| [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/) | Search Apple's media catalog | None | Yes | Yes |
 
 ## 📰 News & Media
 
@@ -252,6 +287,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [The Guardian](https://open-platform.theguardian.com/) | Guardian articles and content | API Key | Yes | Unknown |
 | [NYTimes](https://developer.nytimes.com/) | New York Times articles and archives | API Key | Yes | Unknown |
 | [GNews](https://gnews.io/) | Global news search | API Key | Yes | Yes |
+| [Currents API](https://currentsapi.services/en) | Real-time news search and headlines | API Key | Yes | Unknown |
 
 ## 💻 Open Source & Programming
 
@@ -262,6 +298,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [npm Registry](https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md) | Package metadata | None | Yes | Unknown |
 | [PyPI JSON API](https://warehouse.pypa.io/api-reference/json.html) | Python package metadata | None | Yes | Unknown |
 | [Stack Exchange API](https://api.stackexchange.com/) | Stack Overflow and network sites data | OAuth | Yes | Unknown |
+| [Libraries.io](https://libraries.io/api) | Open-source package and dependency data | API Key | Yes | Unknown |
 
 ## 🔬 Science, Math & Space
 
@@ -272,6 +309,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS location, astronauts in space | None | No | Unknown |
 | [USGS Earthquake](https://earthquake.usgs.gov/fdsnws/event/1/) | Real-time earthquake data | None | Yes | Unknown |
 | [Numbers API](http://numbersapi.com/) | Interesting facts about numbers | None | No | Unknown |
+| [Launch Library 2](https://thespacedevs.com/llapi) | Upcoming rocket launches worldwide | None | Yes | Unknown |
+| [CERN Open Data](http://opendata.cern.ch/docs/cern-open-data-api) | Particle physics research datasets | None | Yes | Unknown |
 
 ## 🔒 Security & Privacy
 
@@ -280,6 +319,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | Check breached accounts/passwords | API Key | Yes | Unknown |
 | [VirusTotal](https://developers.virustotal.com/reference/overview) | File/URL malware scanning | API Key | Yes | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for internet-connected devices | API Key | Yes | Unknown |
+| [AbuseIPDB](https://docs.abuseipdb.com/) | Check IP addresses for abuse reports | API Key | Yes | Unknown |
 
 ## 🛍 Shopping & E-commerce
 
@@ -288,6 +328,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Fake Store API](https://fakestoreapi.com/) | Fake e-commerce data for testing | None | Yes | Yes |
 | [eBay API](https://developer.ebay.com/) | Product listings and search | OAuth | Yes | Unknown |
 | [Best Buy](https://developer.bestbuy.com/) | Product catalog and pricing | API Key | Yes | Unknown |
+| [Walmart Open API](https://walmart.io/) | Product catalog and marketplace data | API Key | Yes | Unknown |
 
 ## 📱 Social Media
 
@@ -297,6 +338,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [X (Twitter) API](https://developer.x.com/en/docs) | Tweets, users, trends | OAuth | Yes | Unknown |
 | [Discord API](https://discord.com/developers/docs/intro) | Bots, servers, messages | OAuth | Yes | Unknown |
 | [Telegram Bot API](https://core.telegram.org/bots/api) | Build Telegram bots | Token | Yes | Unknown |
+| [Mastodon API](https://docs.joinmastodon.org/api/) | Posts, accounts, and timelines on Mastodon | OAuth | Yes | Unknown |
 
 ## 🏅 Sports & Fitness
 
@@ -306,6 +348,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Sports league, team, event data | None/API Key | Yes | Unknown |
 | [Football-Data.org](https://www.football-data.org/) | Football/soccer competitions and scores | API Key | Yes | Unknown |
 | [API-Football](https://www.api-football.com/) | Detailed football stats | API Key | Yes | Unknown |
+| [API-Basketball](https://www.api-basketball.com/) | Basketball leagues, teams, and stats | API Key | Yes | Unknown |
+| [NHL API (unofficial)](https://github.com/Zmalski/NHL-API-Reference) | NHL scores, stats, and schedules | None | Yes | Unknown |
 
 ## 🧪 Test / Placeholder Data
 
@@ -315,6 +359,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [Random User Generator](https://randomuser.me/) | Generate random fake user profiles | None | Yes | Yes |
 | [Mockaroo](https://mockaroo.com/) | Generate realistic mock datasets | API Key | Yes | Unknown |
 | [Faker API](https://fakerapi.it/en) | Fake data generator (names, addresses, etc.) | None | Yes | Yes |
+| [Bacon Ipsum](https://baconipsum.com/json-api/) | Meat-themed lorem ipsum placeholder text | None | Yes | Yes |
 
 ## 🚗 Transportation & Vehicles
 
@@ -324,6 +369,7 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [OpenSky Network](https://openskynetwork.github.io/opensky-api/) | Real-time flight tracking data | None/API Key | Yes | Unknown |
 | [AviationStack](https://aviationstack.com/) | Flight schedules and tracking | API Key | Yes | Unknown |
 | [TransitLand](https://www.transit.land/documentation) | Public transit schedules/routes worldwide | API Key | Yes | Unknown |
+| [CityBikes](https://api.citybik.es/v2/) | Real-time bike-share station data worldwide | None | Yes | Unknown |
 
 ## 🎬 Video & Movies
 
@@ -332,6 +378,8 @@ Most "public API" lists are either outdated, unorganized, or missing key info (d
 | [TMDb](https://developer.themoviedb.org/docs) | Movies, TV shows, cast, ratings | API Key | Yes | Yes |
 | [OMDb](https://www.omdbapi.com/) | Movie/show metadata | API Key | Yes | Unknown |
 | [YouTube Data API](https://developers.google.com/youtube/v3) | Videos, channels, playlists | API Key/OAuth | Yes | Unknown |
+| [Vimeo API](https://developer.vimeo.com/api/guides/start) | Video hosting, playback, and channel data | OAuth | Yes | Unknown |
+| [Twitch API](https://dev.twitch.tv/docs/api/) | Streams, clips, and channel data | OAuth | Yes | Unknown |
 
 ---
 
